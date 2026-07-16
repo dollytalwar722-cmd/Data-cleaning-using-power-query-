@@ -1,4 +1,6 @@
 Data Cleaning Project using Power Query (Power BI)
+
+
 📌 Project Overview
 This project focuses on cleaning and preparing a raw sales dataset using Power Query in Power BI. The objective was to improve data quality by handling missing values, removing duplicates, correcting data types, and preparing the dataset for further analysis and visualization.
 ________________________________________
